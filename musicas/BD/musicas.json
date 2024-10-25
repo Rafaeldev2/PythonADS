@@ -1,0 +1,94 @@
+[
+  {
+    "nome": "Imagine",
+    "artista": "John Lennon",
+    "ano": 1971,
+    "genero": "Rock",
+    "link_youtube": "https://youtu.be/iOs9Osz3UFQ"
+  },
+  {
+    "nome": "Bohemian Rhapsody",
+    "artista": "Queen",
+    "ano": 1975,
+    "genero": "Rock",
+    "link_youtube": "https://youtu.be/fJ9rUzIMcZQ"
+  },
+  {
+    "nome": "Billie Jean",
+    "artista": "Michael Jackson",
+    "ano": 1982,
+    "genero": "Pop",
+    "link_youtube": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y"
+  },
+  {
+    "nome": "Like a Rolling Stone",
+    "artista": "Bob Dylan",
+    "ano": 1965,
+    "genero": "Folk Rock",
+    "link_youtube": "https://www.youtube.com/watch?v=IwOfCgkyEj0"
+  },
+  {
+    "nome": "Smells Like Teen Spirit",
+    "artista": "Nirvana",
+    "ano": 1991,
+    "genero": "Grunge",
+    "link_youtube": "https://www.youtube.com/watch?v=hTWKbfoikeg"
+  },
+  {
+    "nome": "Hotel California",
+    "artista": "Eagles",
+    "ano": 1976,
+    "genero": "Rock",
+    "link_youtube": "https://www.youtube.com/watch?v=EqPtz5qN7HM"
+  },
+  {
+    "nome": "Shake It Off",
+    "artista": "Taylor Swift",
+    "ano": 2014,
+    "genero": "Pop",
+    "link_youtube": "https://www.youtube.com/watch?v=7trHfogp5f4"
+  },
+  {
+    "nome": "Leão",
+    "artista": "Marília Mendonça",
+    "ano": 2022,
+    "genero": "Sertanejo",
+    "link_youtube": "https://youtu.be/tI55Zu9uZEM"
+  },
+  {
+    "nome": "Zona de Perigo",
+    "artista": "Léo Santana",
+    "ano": 2023,
+    "genero": "Axé",
+    "link_youtube": "https://www.youtube.com/watch?v=pW9wY_OJpVc"
+  },
+  {
+    "nome": "Bloqueado",
+    "artista": "Gusttavo Lima",
+    "ano": 2022,
+    "genero": "Sertanejo",
+    "link_youtube": "https://www.youtube.com/watch?v=14C28JSO-sg"
+  } ,
+{
+    "nome": "Nessun dorma",
+    "artista": "Giacomo Puccini",
+    "ano": 1926,
+    "genero": "Ópera",
+    "link_youtube": "https://youtu.be/PrHheaqbKkU"
+  }, 
+ {
+    "nome": "La donna è mobile",
+    "artista": "Giuseppe Verdi",
+    "ano": 1851,
+    "genero": "Ópera",
+    "link_youtube": "https://www.youtube.com/watch?v=xCFEk6Y8TmM"
+  },
+  {
+    "nome": "Habanera",
+    "artista": "Georges Bizet",
+    "ano": 1875,
+    "genero": "Ópera",
+    "link_youtube": "https://youtu.be/OiHsWXRB5OA"
+  }
+]
+
